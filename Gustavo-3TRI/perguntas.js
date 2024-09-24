@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Onde o CSS é utilizado?',
+    'O CSS é usado para estilizar o conteúdo HTML, definindo cores, fontes, espaçamentos, layouts e outros aspectos visuais.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o páis mais populoso no mundo?',
+    'O país mais populoso é a India'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Onde é utilizado o HTML',
+    'desenvolvimento frontend'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz eu em Inglês?',
+    'EU em ingles é I  (RAI)'
 )
