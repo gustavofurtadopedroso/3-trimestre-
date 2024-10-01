@@ -21,3 +21,14 @@ criaCartao(
     'Como se diz eu em Inglês?',
     'EU em ingles é I  (RAI)'
 )
+criaCartao(
+    'Inglês',
+    'Como se fala bom em inglês',
+    'Good'
+)
+
+criaCartao(
+    'Matemática',
+    'Quanto é 1 + 1',
+    '1 + 1 = 2'
+)
